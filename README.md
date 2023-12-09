@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👋 Hi, I’m @stanleygoh
-👀
-🌱 I’m currently pursuing masters in computer science.
-📫 How to reach me: stanleygoh6@gmail.com
-⚡ Fun fact: ...
+- 👋 Hi, I’m @stanleygoh
+- 👀
+- 🌱 I’m currently pursuing masters in computer science.
+- 📫 How to reach me: stanleygoh6@gmail.com
+- ⚡ Fun fact: ...
 
 <!--
 **stanleygoh-dev/stanleygoh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
