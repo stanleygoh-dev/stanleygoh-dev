@@ -1,6 +1,6 @@
 ### Welcome to my Github!
 
-- 👋 Hi there, I’m Stanley.
+- 👋 Hi, I’m Stanley.
 - ‎‍💼 I am a data engineer.
 - 📫 How to reach me: stanleygoh6@gmail.com
 <!--
