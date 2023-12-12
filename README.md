@@ -7,6 +7,8 @@
 
 <a href="https://www.linkedin.com/in/stanley-goh/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/stanley-goh/" alt="LinkedIn Badge">
 
+<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/stanley-goh/" alt="LinkedIn Badge">
+
 <!--
 **stanleygoh-dev/stanleygoh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
