@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Stanley Goh.
 - ‎‍💼 I am a Data Engineer.
 - 🌱 I spend at least an hour learning new knowledge every day.
-- ⚡ Fun fact: I used to serve a lot before joining the tech workforce. 
+- ⚡ Fun fact: I used to serve before joining the tech workforce. 
 - 📫 Reach me at stanleygoh6@gmail.com
 
 <a href="https://www.linkedin.com/in/stanley-goh/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/stanley-goh/" alt="LinkedIn Badge">
